@@ -1,10 +1,16 @@
-## Hi...I'am Rafael Gregorini
-
-
-####  :hammer:I’m an under construction Full Stack Developer
-#### 🌱 I’m currently learning TypeScript , React , Node.JS 
-
 ## About me
+
+🚀 Passionate Web Developer with a focus on innovation and sustainability 🌱
+
+🎓 Graduated in Environmental Management and holding a Master's in Sustainability, my  journey encompasses leadership as a Captain of a sailboat on the Brazilian coast. This experience has fortified my skills in agile problem-solving, autonomy, and unwavering focus.
+
+💻 Currently, I serve as a Backend Developer at Raro Labs, specializing in Node.js and NestJS, actively working with:
+
+   -  React, Node.js, Nest.Js, Firebase, GCP, AWS (S3, ECS, SQS, SES, and Lambda) , Docker, and Kubernetes. Emerged as a key collaborator, autonomously tackling challenges and actively contributing to strategic discussions.
+
+🚀 My proactive approach, coupled with mental acuity and quick reasoning, sets me apart as a key contributor. Committed to adding value to challenging projects, I bring confidence, skill, and creativity to propel success.
+
+💬 Let's collaborate and create something extraordinary together! 🚀✨
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafa-gre)](https://github.com/Rafa-gre)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-gregorini/)](https://www.linkedin.com/in/rafael-gregorini/)
